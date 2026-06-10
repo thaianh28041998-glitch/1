@@ -1,0 +1,27 @@
+body{
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin:0;
+}
+
+header{
+    background:#2196f3;
+    color:white;
+    text-align:center;
+    padding:70px;
+}
+h1 {
+    font-size: 50px;
+}
+main{
+    text-align: center;
+    padding:30px;
+}
+
+button{
+    background:green;
+    color:white;
+    border:none;
+    padding:20px 20px;
+    font-size: 18px;
+    border-radius: 10px;
+}
